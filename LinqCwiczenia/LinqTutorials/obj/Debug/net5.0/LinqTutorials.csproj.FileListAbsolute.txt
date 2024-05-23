@@ -1,0 +1,15 @@
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\barto\OneDrive\Pulpit\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
